@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "taxi-order-app",
+    "slug": "taxi-order-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.taxi-order-app",
+      "config": {
+        "googleMapsApiKey": "AIzaSyBzvMbiWJubpwPonwBnSypW1BCgq8E8mDE"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "99364637-8ac2-4414-9c77-d4ef34f9ecb3"
+      }
+    }
+  }
+}
