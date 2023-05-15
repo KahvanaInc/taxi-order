@@ -16,10 +16,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.taxi-order-app",
-      "config": {
-        "googleMapsApiKey": "AIzaSyBzvMbiWJubpwPonwBnSypW1BCgq8E8mDE"
-      }
+      "bundleIdentifier": "com.taxi-order-app"
     },
     "android": {
       "adaptiveIcon": {
